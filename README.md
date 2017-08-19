@@ -4,7 +4,7 @@
 
 ### 準備
 
-* [install.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/install.ipynb): Pythonと必要なモジュールのインストール。 
+* [install.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/install.ipynb): Pythonと必要なモジュールのインストール。
 * [font.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/font.ipynb): matplotlibで日本語を使うための設定。
 
 ### 実習
@@ -14,6 +14,5 @@
 * [map.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/map.ipynb): いくつかの地図投影法を用いて地図を描画する。
 * [image.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/image.ipynb): 地図上に画像を貼る方法を学ぶ。
 * [sst.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/sst.ipynb): NetCDF及びテキスト形式の海面水温データを読み描画する。
-* [netcdf.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/netcdf.ipynb): 自己記述型であるNetCDF形式のデータの作成方法を学ぶ。
 * [climatology.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/climatology.ipynb): 30年分の海面水温データから気候値を作成し，NetCDF形式で保存する。
 * [nino3.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/nino3.ipynb): エルニーニョ監視海域における海面水温の時系列データを作成する。
