@@ -16,3 +16,5 @@
 * [sst.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/sst.ipynb): NetCDF及びテキスト形式の海面水温データを読み描画する。
 * [climatology.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/climatology.ipynb): 30年分の海面水温データから気候値を作成し，NetCDF形式で保存する。
 * [nino3.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/nino3.ipynb): エルニーニョ監視海域における海面水温の時系列データを作成する。
+* [vector.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/vector.ipynb): NCEP再解析データを用いて矢印を描く。
+* [problems.ipynb](https://nbviewer.jupyter.org/github/tenomoto/nwu-geoex2/blob/master/problems.ipynb): 練習問題
